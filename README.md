@@ -81,5 +81,3 @@ This project demonstrates the feasibility of using deep neural networks and trad
 2. Relevant literature and prior research studies are detailed in the full project report.
 
 ---
-
-Feel free to customize this README further based on the specific details and outcomes of your project. Including any images, graphs, or additional links can also enhance the comprehensiveness of the document.
